@@ -25,7 +25,7 @@ public class Multiplicar {
         num=input.nextInt();        
         System.out.println("Ingrese numero multiplicador");
         num2=input.nextInt();
-        for(int =num2;num2>0;num2--)
+        while(int =num2;num2>0;num2--)
         {
             producto=producto+num;        
         }
