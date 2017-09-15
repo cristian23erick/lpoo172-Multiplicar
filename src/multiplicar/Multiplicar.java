@@ -21,11 +21,11 @@ public class Multiplicar {
       Scanner input = new Scanner(System.in);
         int num,num2,producto=0;
         
-        System.out.println("INGRESE NUMERO A MULTIPLICAR");
+        System.out.println("Ingrese numero para multiplicar");
         num=input.nextInt();        
-        System.out.println("INGRESE NUMERO MULPLICADOR");
+        System.out.println("Ingrese numero multiplicador");
         num2=input.nextInt();
-        for(int x=num2;num2>0;num2--)
+        for(int =num2;num2>0;num2--)
         {
             producto=producto+num;        
         }
