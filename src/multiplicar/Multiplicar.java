@@ -27,7 +27,7 @@ public class Multiplicar {
         num=input.nextInt();        
         System.out.println("Ingrese segundo numero");
         num2=input.nextInt();
-        while(int =num2;num2>0;num2--)
+        while(int =num2;num2>0;num2==)
         {
             producto=producto+num;        
         }
