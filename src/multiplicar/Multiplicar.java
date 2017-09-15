@@ -19,7 +19,9 @@ public class Multiplicar {
     public static void main(String[] args) {
         //ingresando scanner
       Scanner input = new Scanner(System.in);
-        int num,num2,producto=0;
+        int num;
+        int num2;
+        int producto=0;
         
         System.out.println("Ingrese numero para multiplicar");
         num=input.nextInt();        
